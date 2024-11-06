@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Aprenderé React
         </a>
       </header>
     </div>
@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+// npm install -D nodemon, es una herramienta que reinicia automáticamente el servidor cada vez que detecta cambios en los archivos del proyecto, ahorrando tiempo al desarrollador, ya que no necesita detener y reiniciar manualmente el servidor.
